@@ -6,9 +6,9 @@
 
 # while looping
 # i = 0
-# while i < 5:
-#     print(i)
-#     i += 1
+while i < 5:
+    print(i)
+    i += 1
 
 # for looping
 for i in range(1, 5, 2):
