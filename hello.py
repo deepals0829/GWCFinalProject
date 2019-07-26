@@ -11,8 +11,8 @@
 #     i += 1
 
 # for looping
-# for i in range(1, 5, 2):
-#     print(i)
+for i in range(1, 5, 2):
+    print(i)
 
 i = -1
 while True:
